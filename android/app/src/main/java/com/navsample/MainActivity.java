@@ -1,6 +1,7 @@
 package com.navsample;
 
 import com.facebook.react.ReactActivity;
+import com.i18n.reactnativei18n.ReactNativeI18n;
 import com.reactnativenavigation.RnnPackage;
 
 public class MainActivity extends ReactActivity {
