@@ -9,13 +9,6 @@
         <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-7e12f6996ecce74a8140e6b408cd22c8a77957e9.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/navSample/react-native-navigation/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4cb33a6dc43c952bb4b2d7688bd60b1a4ecaf778">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-62410665fd6cbc6e4b5f52fadbbdd9856b5e8cc2.jar" />
-    </item>
-    <item
         jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -23,32 +16,32 @@
         <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-6adbc94308ddb3525710471fc1c4e77083ed6d4c.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/navSample/react-native-navigation/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-5969d22a5fb0ff74a70178195e1045585f298a9b.jar" />
+        sha1="4cb33a6dc43c952bb4b2d7688bd60b1a4ecaf778">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-62410665fd6cbc6e4b5f52fadbbdd9856b5e8cc2.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/navSample/react-native-vector-icons/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-aca70725a1191f14978e2b65a356cbbf26a50e54.jar" />
+        sha1="f39d70c7c918c28eff384aca6479bf6dd79e175c">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-102f855b96aad2485a91d5849f6fb89ea4dc1d78.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-1baecfa68f149fd3ac3f61e2d8a4a24186070bcc.jar" />
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-61ca8e926b9264e495585b6a68de63cb185df9b6.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-17167aff61bcccbcfe7dbbce2f1c8aba076455e9.jar" />
+        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-42705aaf567837fbc32083c94e5a73e18c96347e.jar" />
     </item>
     <item
         jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
@@ -58,18 +51,11 @@
         <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-837502be62f45d83737c184b8a99d93ba6d83d89.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/1.3.3/jars/classes.jar"
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="4234bd96344a30c7130d4bd89f3ab9116c30931b">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-9b184aa542b35bd0ae15dc210450733d822718cd.jar" />
-    </item>
-    <item
-        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-c32fc07450bedc78f898ffb950b367ce5e51e8c9.jar" />
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-1bc1db8348f7eab200f7de7b11f297d3a7d1b837.jar" />
     </item>
     <item
         jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/libs/infer-annotations-1.5.jar"
@@ -86,46 +72,18 @@
         <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-6fe493a9d0f3e6889a488f8c9ede4bb95fa08ff9.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-1bc1db8348f7eab200f7de7b11f297d3a7d1b837.jar" />
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-ab5d060dd9aaa9e6999a79c8a2080df8767cb1de.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-602e95ca20671c466f64f3782d96d6a616cdac34.jar" />
-    </item>
-    <item
-        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-61ca8e926b9264e495585b6a68de63cb185df9b6.jar" />
-    </item>
-    <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-a847eaa52fd4906afb66b8f151bfdec60090dbe1.jar" />
-    </item>
-    <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-bf186768f46a13de0f45ad2f9f9bacb54abe57d7.jar" />
-    </item>
-    <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-dab499a95fba6d784ec62545a2014f4de831da42.jar" />
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-aca70725a1191f14978e2b65a356cbbf26a50e54.jar" />
     </item>
     <item
         jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
@@ -149,46 +107,32 @@
         <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-5e9e3a7d11b2ea9932bf81d9aabd1bbaa2854ea0.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-a1892feb098fcd68a0c744ec4f66299e8a0eb16c.jar" />
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-1baecfa68f149fd3ac3f61e2d8a4a24186070bcc.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-b4674a4c933ab90c1b4a8a4df8309edb234e7977.jar" />
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-17167aff61bcccbcfe7dbbce2f1c8aba076455e9.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-0be23553827885ea365c643dfc103fed785657b7.jar" />
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-dab499a95fba6d784ec62545a2014f4de831da42.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-025130200bb55812f4617b0f2c985115c8116870.jar" />
-    </item>
-    <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-ab5d060dd9aaa9e6999a79c8a2080df8767cb1de.jar" />
-    </item>
-    <item
-        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-b16c79ad0bc729874f9e865421b271b03e5b9d95.jar" />
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-602e95ca20671c466f64f3782d96d6a616cdac34.jar" />
     </item>
     <item
         jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
@@ -205,11 +149,74 @@
         <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-901d10a3f9d7f88146138577b12f632e38767e7f.jar" />
     </item>
     <item
-        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/classes.jar"
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
-        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-42705aaf567837fbc32083c94e5a73e18c96347e.jar" />
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-a847eaa52fd4906afb66b8f151bfdec60090dbe1.jar" />
+    </item>
+    <item
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-bf186768f46a13de0f45ad2f9f9bacb54abe57d7.jar" />
+    </item>
+    <item
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/1.3.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4234bd96344a30c7130d4bd89f3ab9116c30931b">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-9b184aa542b35bd0ae15dc210450733d822718cd.jar" />
+    </item>
+    <item
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-025130200bb55812f4617b0f2c985115c8116870.jar" />
+    </item>
+    <item
+        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-c32fc07450bedc78f898ffb950b367ce5e51e8c9.jar" />
+    </item>
+    <item
+        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-b16c79ad0bc729874f9e865421b271b03e5b9d95.jar" />
+    </item>
+    <item
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-0be23553827885ea365c643dfc103fed785657b7.jar" />
+    </item>
+    <item
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-a1892feb098fcd68a0c744ec4f66299e8a0eb16c.jar" />
+    </item>
+    <item
+        jar="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/classes-5969d22a5fb0ff74a70178195e1045585f298a9b.jar" />
+    </item>
+    <item
+        jar="/Users/ffolivi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ffolivi/Documents/projects/reactNative/navSample/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-b4674a4c933ab90c1b4a8a4df8309edb234e7977.jar" />
     </item>
 
 </items>
