@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/ffolivi/Documents/projects/reactNative/navSample/node_modules/react-native-navigation/ios/RCCDrawerController/RCCTheSideBarManagerViewController.m \
+  /Users/ffolivi/Documents/projects/reactNative/navSample/node_modules/react-native-navigation/ios/RCCDrawerController/RCCTheSideBarManagerViewController.h \
+  /Users/ffolivi/Documents/projects/reactNative/navSample/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/TheSidebarController.h \
+  /Users/ffolivi/Documents/projects/reactNative/navSample/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h \
+  /Users/ffolivi/Documents/projects/reactNative/navSample/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/ffolivi/Documents/projects/reactNative/navSample/node_modules/react-native-navigation/ios/RCCViewController.h \
+  ../../react-native/React/Base/RCTBridge.h \
+  ../../react-native/React/Base/RCTBridgeDelegate.h \
+  ../../react-native/React/Base/RCTJavaScriptLoader.h \
+  ../../react-native/React/Base/RCTBridgeModule.h \
+  ../../react-native/React/Base/RCTDefines.h \
+  ../../react-native/React/Base/RCTFrameUpdate.h \
+  ../../react-native/React/Base/RCTInvalidating.h \
+  /Users/ffolivi/Documents/projects/reactNative/navSample/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerHelper.h \
+  ../../react-native/React/Base/RCTConvert.h \
+  ../../react-native/React/CSSLayout/CSSLayout.h \
+  ../../react-native/React/CSSLayout/CSSMacros.h \
+  ../../react-native/React/Views/RCTAnimationType.h \
+  ../../react-native/React/Views/RCTBorderStyle.h \
+  ../../react-native/React/Views/RCTTextDecorationLineType.h \
+  ../../react-native/React/Base/RCTLog.h \
+  ../../react-native/React/Base/RCTAssert.h \
+  ../../react-native/React/Views/RCTPointerEvents.h
