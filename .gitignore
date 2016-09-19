@@ -2,3 +2,4 @@
 node_modules
 .vscode/
 ios/build/
+android/app/build/
