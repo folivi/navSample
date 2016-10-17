@@ -9,7 +9,7 @@
     "react": "15.2.1",
     "react-native": "0.31.0",
     "react-native-i18n": "^0.1.1",
-    "react-native-navigation": "next",
+    "react-native-navigation": "2.0.0-experimental.131",
     "react-native-vector-icons": "^2.1.0",
     "redux": "^3.6.0"
   }
