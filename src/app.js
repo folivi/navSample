@@ -3,7 +3,17 @@ import I18n from './locales/i18n';
 import { registerScreens } from '../screens';
 import { iconsMap, iconsLoaded } from '../helpers/icons-loader';
 
-registerScreens();
+import { Provider } from 'react-redux';
+import { CreateStore } from 'redux';
+import thunk from "redux-thunk";
+
+import * as reducers from "./reducers";
+import {createStore, applyMiddleware, combineReducers} from "redux";
+const createStoreWithMiddleware = applyMiddleware(thunk)(createStore);
+const reducer = combineReducers(reducers);
+const store = createStoreWithMiddleware(reducer);
+
+registerScreens(store, Provider);
 
 let barsIcon;
 let homeIcon;
@@ -16,17 +26,18 @@ export default class App {
   iconsLoaded
       .then(() => {
         barsIcon = iconsMap['navicon'];
-        barsChartIcon = iconsMap['bar-chart'];              
-        calendarIcon = iconsMap['calendar']; 
+        barsChartIcon = iconsMap['bar-chart'];
+        calendarIcon = iconsMap['calendar'];
         cartIcon = iconsMap['shopping-cart'];
 
+        console.log('initial state: ', store.getState());
         this.startApp();
-    }      
+    }
   )
 
 };
   startApp() {
-    
+
     Navigation.startTabBasedApp({
       tabs: [
         {
@@ -57,9 +68,8 @@ export default class App {
           }
         }
       ],
-      tabsStyle: { 
-        tabBarButtonColor: '#fff', 
-        tabBarSelectedButtonColor: '#000',
+      tabsStyle: {
+        tabBarSelectedButtonColor: '#fff',
         tabBarBackgroundColor: '#f53752'
       },
       drawer: {
@@ -71,7 +81,5 @@ export default class App {
       }
     });
   }
- 
+
 };
-
-

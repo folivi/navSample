@@ -8,7 +8,9 @@ import {
   Platform
 } from 'react-native';
 
-export default class SecondTabScreen extends Component {
+import {connect} from 'react-redux';
+
+class SecondTabScreen extends Component {
     constructor(props) {
         super(props);
     }
@@ -16,9 +18,20 @@ export default class SecondTabScreen extends Component {
     render(){
         return(
         <View style={{flex: 1, padding: 20}}>
-            <Text>SecondTabScreen</Text> 
+            <Text>{JSON.stringify(this.props.profile)}</Text>
         </View>
 
         )
     }
 }
+
+SecondTabScreen.propTypes = {
+  profile: React.PropTypes.object.isRequired,
+}
+
+function mapStateToProps(state) {
+  return {
+    profile: state.profile
+  }
+};
+export default connect(mapStateToProps)(SecondTabScreen);
