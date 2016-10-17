@@ -1,6 +1,4 @@
 <resources>
-
-
-
-    <string name="app_name">navSample</string>
+  <string name="app_name">navSample</string>
+  <string name="facebook_app_id">851574938296128</string>
 </resources>

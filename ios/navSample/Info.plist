@@ -60,5 +60,27 @@
     </array>
     <key>UIViewControllerBasedStatusBarAppearance</key>
     <false/>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>fb851574938296128</string>
+        </array>
+      </dict>
+    </array>
+    <key>FacebookAppID</key>
+    <string>851574938296128</string>
+    <key>FacebookDisplayName</key>
+    <string>Up4dance</string>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+      <string>fbapi</string>
+      <string>fb-messenger-api</string>
+      <string>fbauth2</string>
+      <string>fbshareextension</string>
+    </array>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>{human-readable reason for photo access}</string>
   </dict>
 </plist>
